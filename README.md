@@ -12,5 +12,3 @@ Interested in Blockchain, Fintech and A.I.
 <a href =https://github.com/Viraj24Gupta target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='35' weight='35'/></a>
 <a href = https://www.linkedin.com/in/kshitij-dhawan-a8a25b18b/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='35' weight='35'/></a> 
 <a href = https://www.instagram.com/_kaydeee__/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='35' weight='35'/></a>
-![Viraj's github stats](https://github-readme-stats.vercel.app/api?username=Viraj24Gupta&show_icons=true&hide_border=false&theme=onedark) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj24Gupta&layout=compact&theme=radical)](https://github.com/Viraj24Gupta/github-readme-stats)
