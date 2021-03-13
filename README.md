@@ -5,8 +5,6 @@
 Interested in Blockchain, Fintech and A.I.<hr>
 ### Some more about me:
 - 🔭 I’m currently working on prediction models for cryptocurrencies and stocks.
-- 👯 I’m looking to collaborate on intresting projects
-- 🤔 I’m looking for help with cool ideas
 - 💬 Ask me about anything
 <hr><p align = "center">
 <a href = https://www.linkedin.com/in/viraj-gupta/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='35' weight='35'/></a>
