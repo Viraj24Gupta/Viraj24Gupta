@@ -9,3 +9,4 @@
 - 💬 Ask me about anything
 <hr><p align = "center">
 <a href = https://www.linkedin.com/in/viraj-gupta/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='35' weight='35'/></a>
+[![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viraj24Gupta&show_icons=true&count_private=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00)]
