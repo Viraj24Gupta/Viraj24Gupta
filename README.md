@@ -4,8 +4,5 @@
 <BR/>◼A passionate learner and currently looking for internship opportunities.
 <BR/>◼Skilled in C/C++ , Data Structures and Algorithms, and FrontEnd WebDev.
 <br/>◼Interested in Blockchain, Fintech and A.I.<hr>
-### Some more about me:
-- 🔭 I’m currently working on prediction models for cryptocurrencies and stocks.
-- 💬 Ask me about anything
 <hr><p align = "center">
 <a href = https://www.linkedin.com/in/viraj-gupta/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='35' weight='35'/></a>
