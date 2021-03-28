@@ -3,6 +3,5 @@
 <BR/>◼I'm Viraj Gupta. I'm currently pursuing my B.Tech Degree from VIT, Vellore in Computer Science. 
 <BR/>◼A passionate learner and currently looking for internship opportunities.
 <BR/>◼Skilled in C/C++ , Data Structures and Algorithms, and FrontEnd WebDev.
-<br/>◼Interested in Blockchain, Fintech and A.I.
 <hr><p align = "center">
 <a href = https://www.linkedin.com/in/viraj-gupta/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='35' weight='35'/></a>
