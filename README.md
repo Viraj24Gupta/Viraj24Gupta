@@ -5,6 +5,6 @@
 <BR/>◼Skilled in C/C++ , Data Structures and Algorithms, and FullStack WebDev.<hr>
 
 ![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viraj24Gupta&hide=stars,issues&border_radius=25px&include_all_commits=true&bg_color=181B1D&text_color=87756a&border_color=87756a&count_private=true&show_icons=true&custom_title=My%20Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj24Gupta&border_radius=25px&layout=compact&bg_color=181B1D&text_color=87756a&border_color=87756a&custom_title=Tech%20Stack)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj24Gupta&border_radius=25px&layout=compact&bg_color=181B1D&text_color=87756a&border_color=87756a&custom_title=Used%20Languages)
 <hr><p align = "center">
 <a href = https://www.linkedin.com/in/viraj-gupta/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='35' weight='35'/></a>
