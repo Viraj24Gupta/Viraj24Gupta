@@ -1,4 +1,4 @@
-![Alt text](./yoda_hello.gif?raw=true "hello")
+<!-- ![Alt text](./yoda_hello.gif?raw=true "hello") -->
 
 ![](https://komarev.com/ghpvc/?username=Viraj24Gupta&color=181B1D) 
 <BR/>◼I'm Viraj Gupta. I'm currently pursuing my B.Tech Degree from VIT, Vellore in Computer Science. 
