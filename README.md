@@ -1,4 +1,4 @@
-# <img src="https://tenor.com/view/baby-yoda-so-cute-the-mandalorian-hello-hi-gif-16772776.gif" width="100" style=" border:"2px solid grey";border-radius:"5px"">
+# <img src="https://tenor.com/view/baby-yoda-so-cute-the-mandalorian-hello-hi-gif-16772776.gif" width="100" style=" border:2px solid grey;border-radius:5px">
 ![](https://komarev.com/ghpvc/?username=Viraj24Gupta&color=181B1D) 
 <BR/>◼I'm Viraj Gupta. I'm currently pursuing my B.Tech Degree from VIT, Vellore in Computer Science. 
 <BR/>◼A passionate learner and currently looking for internship opportunities.
