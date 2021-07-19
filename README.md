@@ -2,8 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=Viraj24Gupta&color=181B1D) 
 <BR/>◼I'm Viraj Gupta. I'm currently pursuing my B.Tech Degree from VIT, Vellore in Computer Science. 
 <BR/>◼A passionate learner and currently looking for internship opportunities.
-<BR/>◼Skilled in C/C++ , Data Structures and Algorithms, and FullStack WebDev.
-<hr>
+<BR/>◼Skilled in C/C++ , Data Structures and Algorithms, and FullStack WebDev.<hr>
+
 ![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viraj24Gupta&hide=stars,issues&border_radius=25px&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj24Gupta&border_radius=25px&layout=compact)
 <hr><p align = "center">
