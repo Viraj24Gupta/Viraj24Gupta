@@ -5,7 +5,7 @@
 <BR/>◼A passionate learner and currently looking for internship opportunities.
 <BR/>◼Skilled in C/C++ , Data Structures and Algorithms, and FullStack WebDev.<hr>
 
-![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viraj24Gupta&hide=stars,issues&border_radius=25px&include_all_commits=true&bg_color=181B1D&text_color=87756a&border_color=87756a&count_private=true&show_icons=true&custom_title=My%20Stats)
+![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viraj24Gupta&hide=stars,issues&border_radius=25px&include_all_commits=true&bg_color=181B1D&text_color=87756a&border_color=ffffff00&count_private=true&show_icons=true&custom_title=My%20Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj24Gupta&border_radius=25px&layout=compact&bg_color=181B1D&text_color=87756a&border_color=87756a&custom_title=Used%20Languages)
 <!-- ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Viraj24Gupta) -->
 <hr><p align = "center">
