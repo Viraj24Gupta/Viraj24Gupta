@@ -6,4 +6,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj24Gupta&border_radius=25px&layout=compact&bg_color=ffffff00&text_color=87756a&border_color=87756a&custom_title=Used%20Languages)
 <!-- ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Viraj24Gupta) -->
 <hr><p align = "center">
-<a href = https://www.linkedin.com/in/viraj-gupta/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='35' weight='35'/></a>
+<a href = https://www.linkedin.com/in/viraj24gupta/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='35' weight='35'/></a>
